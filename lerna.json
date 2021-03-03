@@ -1,0 +1,16 @@
+{
+  "changelog": {
+    "repo": "peach-lerna",
+    "labels": {
+      "enhancement": ":rocket: Enhancement",
+      "bug": ":bug: Bug Fix",
+      "doc": "Refine Doc",
+      "feat": "New Feature"
+    },
+    "cacheDir": ".changelog"
+  },
+  "packages": [
+    "packages/*"
+  ],
+  "version": "1.0.0"
+}

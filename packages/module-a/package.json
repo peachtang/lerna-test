@@ -1,0 +1,11 @@
+{
+  "name": "ma",
+  "version": "1.0.0",
+  "description": "test",
+  "dependencies": {
+    "module-parent": "^1.0.0"
+  },
+  "main": "index.js",
+  "author": "peach",
+  "license": "ISC"
+}

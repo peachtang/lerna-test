@@ -1,0 +1,8 @@
+{
+  "name": "mp",
+  "version": "1.0.0",
+  "description": "parent",
+  "main": "index.js",
+  "author": "peach",
+  "license": "ISC"
+}
