@@ -1,9 +1,9 @@
 {
   "name": "ma",
-  "version": "1.0.2-alpha.0",
+  "version": "1.0.2",
   "description": "test",
   "dependencies": {
-    "mp": "^1.0.1"
+    "mp": "^1.0.2"
   },
   "main": "index.js",
   "author": "peach",
