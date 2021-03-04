@@ -3,9 +3,10 @@
   "version": "1.0.2-alpha.0",
   "description": "test",
   "dependencies": {
-    "lodash": "^4.17.12"
+    "mp": "^1.0.1"
   },
   "main": "index.js",
   "author": "peach",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "3fdf6dc36f97531bb3d4b0d489d6aabc9c2d4daf"
 }

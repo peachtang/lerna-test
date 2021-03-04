@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "test",
   "dependencies": {
-    "lodash": "^4.17.12"
+    "mp": "^1.0.1"
   },
   "main": "index.js",
   "author": "peach",
